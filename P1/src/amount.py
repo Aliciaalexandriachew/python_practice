@@ -80,14 +80,45 @@ Study Unit 2 Activity 6
 #     print(i)
 
 #c
-x = 2
-y = 10
-for j in range(0, y, x):
-    print(j, end="")
+# x = 2
+# y = 10
+# for j in range(0, y, x):
+#     print(j, end="")
 #     print(x + y)
 #     print("done")
+#     
+#d
+# ans = 0
+# for i in range(1, 11):
+#     ans = ans + i * i
+#     print("i ", i)
+#     print("ans ", ans)
 
+# Num50cents = dollar/0.50
+# 20centsValue = num20cents * 0.20
 
+# print(‘’’She can’t
+# Come ‘’’)
+# print(‘I’m indeed surprised by Julie’s visit’)
+# print(“Hurry! We’re ‘’’ late”)
+
+# t = (1,2,3)
+# print(t[-len(t) : -1])
+# print(t[ : ])
+# print(t[0: len(t)])
+
+# aList = [1, 2, 3]
+# print(aList[0] + aList[len(aList)])
+# print(aList[0] = len(aList) )
+# print(aList[ : ])
+# print(2 * aList)
+
+def main():
+    print(1 + 2 * 0  - 1)
+    print(5 // 2 -10 % 2 + 3)
+    print( -5 % 3 + 2  * 1 / (-2))
+    
+main()
 
 
 
